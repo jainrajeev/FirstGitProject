@@ -40,7 +40,7 @@ private class Test_UserTrigger {
                         v1.6 - Modified By - Abhinav Sharma - 06/14/2016 - CR-20150202-8649 - A Code Refactor CR
                         V1.7 - Modified By - Colin McGloin - 08/08/2016 - CR-20160414-9762 - Added new method "validateSteelbrickApproverAdded"
     					V1.7 - Modified By - Mahendra Swarnakar - 10/10/2016 - CR-20160426-9797
-			Checking code changes done by me on my local git repository.
+			Checking code changes done by me on my local git repository. Added additional comment in the class to check the changes done by me.
     					
     Coverage        :   v1.6 -  97% - UserTriggerHelper
                                 76% - Trigger_User
